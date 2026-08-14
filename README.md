@@ -62,6 +62,11 @@ The mean recovered strain is approximately:
 | 1 | 0.377 | 0.030 |
 | 3 | 1.973 | 0.253 |
 | 7 | 5.117 | 0.867 |
+
+
+
+
+
 The extracted data also show that residual strain increases with increasing prestrain.
 Within the extracted temperature range of 253–273 K, recovered strain decreases with increasing prestrain temperature for each of the three prestrain levels.
 These observations describe trends within the extracted dataset and should not be generalized beyond the experimental conditions represented in the source data.
